@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @yourdie-0305
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-yourdie-0305/yourdie-0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Private Version
+I'm currently selling private version of this driver that is fully undetected, if you're interested in purchasing - dm me in discord: l1nky1337
+
+# Get solution files
+Join my [discord server](https://bit.ly/3UZJ92L) to get solution files and updated fortnite sources!
+
+# Demonstration
+video - https://www.youtube.com/watch?v=NwlLMOrdOWc
